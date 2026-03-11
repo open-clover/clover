@@ -1,0 +1,14 @@
+{
+  "title": "survey-of-coding-agents",
+  "template": "",
+  "agent": "claude",
+  "texCommand": "pdflatex",
+  "mainFile": "main.tex",
+  "resourcesDir": "resources",
+  "enableClaudeSkills": true,
+  "createdAt": "2026-03-04T00:32:53.151Z",
+  "updatedAt": "2026-03-04T04:46:55.037Z",
+  "lastOpenedFile": "main.tex",
+  "compiler": "pdflatex",
+  "texLiveVersion": "2025"
+}
